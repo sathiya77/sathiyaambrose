@@ -3,36 +3,28 @@
 **I engineer impactful software solutions with precision and creativity.**  
 
 ---
-**🎨Driven by Code Elegance**
+🎨Driven by Code Elegance
 
 🤝 Team-Oriented Problem-Solver
+
 🚀 Tech Enthusiast, Passionate About Innovation
+
 🔍 Meticulous Engineer
+
 🏗️ Designer of Scalable Solutions
 
 ---
-
 ## 💡 **Technical Skills**  
-
 - **Frontend Development:**  
-  - React.js  
+  - Vue Js 
   - HTML5 & CSS3  
-  - JavaScript (ES6+)  
-  - Responsive Design  
-
+  - JavaScript, Typescript    
 - **Backend Development:**  
   - Node.js  
-  - Python  
+  - MongoDB  
   - REST APIs  
-
 - **Version Control:**  
   - Git  
-
-- **Other Skills:**  
-  - Problem-Solving  
-  - System Design  
-  - Team Collaboration  
-
 ---
 
 ## 🌟 **What I Bring to the Table**  
@@ -46,9 +38,9 @@
 
 ## 📬 **Get in Touch**  
 
-- **Email:** [sathiyaambrose@example.com](mailto:sathiyaambrose@example.com)  
+- **Email:** [sathiyaambrose77@gmail.com](mailto:sathiyaambrose77@gmail.com) 
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/sathiyaambrose)  
-- **Portfolio:** [My Website](https://sathiyaambrose.github.io/)  
+- **Portfolio:** [My Website](https://github.com/sathiya77/sathiyaambrose)  
 - **Location:** Bengaluru, Karnataka, India  
 
 ---
